@@ -1,4 +1,11 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":4352,"scrollY":2416}
+{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":3916,"scrollY":2174},
+{"id":2,"expanded":true,"name":"Room1","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"Room2","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"Room3","order":4,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"Room4","order":5,"parentId":0,"scrollX":1780.3636363636365,"scrollY":988.3636363636364},
+{"id":6,"expanded":false,"name":"Room5","order":6,"parentId":0,"scrollX":3916.7999999999997,"scrollY":2174.4},
+{"id":7,"expanded":true,"name":"Room6","order":7,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"Room7","order":8,"parentId":0,"scrollX":832,"scrollY":640}
 ]
